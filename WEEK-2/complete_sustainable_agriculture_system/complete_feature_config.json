@@ -1,0 +1,26 @@
+{
+  "feature_names": [
+    "N",
+    "P",
+    "K",
+    "ph",
+    "temperature",
+    "humidity",
+    "rainfall",
+    "N_P_ratio",
+    "N_K_ratio",
+    "P_K_ratio",
+    "soil_health_score"
+  ],
+  "feature_count": 11,
+  "target_variables": [
+    "any_deficiency",
+    "zinc_deficiency",
+    "iron_deficiency",
+    "multiple_deficiency",
+    "soil_health_score"
+  ],
+  "model_count": 5,
+  "feature_importance_available": true,
+  "complete_functionality": true
+}
