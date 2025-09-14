@@ -18,7 +18,7 @@ WEEK-3/
 
 ### 1. Install Dependencies
 ```bash
-pip install -r deployment_files/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 2. Get Gemini API Key
@@ -72,23 +72,10 @@ Go to: `http://localhost:8501`
 
 ---
 
-## 🛠️ Deployment Options
+## 🛠️ Deployment command
 
-### Option 1: Streamlit Cloud (Recommended)
-1. Push code to GitHub
-2. Go to https://share.streamlit.io
-3. Connect your repository
-4. Deploy with one click
-
-### Option 2: Local Development
 ```bash
 streamlit run app.py
-```
-
-### Option 3: Docker
-```bash
-docker build -t nutrify-ai .
-docker run -p 8501:8501 nutrify-ai
 ```
 
 ---
@@ -162,5 +149,6 @@ docker run -p 8501:8501 nutrify-ai
 - **Portfolio Worthy**: Demonstrates full-stack AI skills
 
 ---
+
 
 **🌱 Ready to help Indian farmers improve their soil health through AI-powered, sustainable solutions!**
