@@ -11,3 +11,8 @@
 - It can predict the deficiency in soil nutrition and tell the farmer about the treatment and measures that can be taken to solve the probelm.
 
 - Treatments promoting organic farming since it should support sustainable agriculture.
+
+# Week-3
+- Created an python script (app.py) using streamlit for an interactive dashboard used by user.
+
+- Now it is fully functioning with this model and able to predict the nutrition deficiency in soil.
